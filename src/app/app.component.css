@@ -1,0 +1,13 @@
+
+.navheader{
+    display: flex;
+    justify-content:center;
+    gap:25px;
+    font-size: 25px;
+    font-style: white;
+    background-color: whitesmoke;
+}
+.navbar{
+    display: flex;
+    justify-items: center;
+}
